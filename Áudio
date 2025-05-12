@@ -1,3 +1,0 @@
-git add audios/episodio_01.mp3
-git commit -m "Adiciona episódio 01 do podcast"
-git push origin main
