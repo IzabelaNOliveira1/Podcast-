@@ -1,17 +1,28 @@
 
-# A Máquina Convence
+# 🎙️ A Máquina Convence
 
-**"A Máquina Convence"** é um podcast semanal que explora como a inteligência artificial, especialmente ferramentas como o ChatGPT, está revolucionando a área comercial das empresas. O foco do podcast é mostrar, de forma prática e estratégica, como a IA pode ser utilizada em todas as etapas comerciais, desde a prospecção até o fechamento.
+**A Máquina Convence** é um podcast semanal que mostra como a inteligência artificial — com foco no ChatGPT — está transformando o mundo das vendas e da comunicação comercial.
 
-## Objetivo
+Neste projeto, você vai encontrar todas as etapas de produção do podcast, do roteiro à edição final, utilizando ferramentas baseadas em IA.
 
-O podcast ilustra como a IA pode convencer, argumentar e até vender de maneira mais eficiente do que muitos seres humanos — ou até mesmo trabalhar em parceria com eles. A proposta é ajudar profissionais e empresas a entenderem como aproveitar o potencial dessas ferramentas tecnológicas para otimizar e transformar suas operações comerciais.
+---
 
-### Tópicos abordados:
-- Prospecção de clientes
-- Fechamento de vendas
-- Inteligência artificial no ambiente corporativo
-- Ferramentas como ChatGPT e sua aplicação prática no comércio
+## 🧠 Sobre o Projeto
 
-A cada episódio, "A Máquina Convence" oferece insights e estratégias para alavancar os negócios por meio da inteligência artificial.
+- **Tema:** Inteligência artificial aplicada à área comercial.
+- **Foco:** Ferramentas como ChatGPT.
+- **Formato:** Podcast gerado com roteiro, narração e capa feitos por IA.
 
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- [ChatGPT](https://chat.openai.com) – geração do roteiro
+- [ElevenLabs](https://beta.elevenlabs.io) – voz artificial
+- [ChatGPT](https://chat.openai.com) – arte da capa
+- [CapCut](https://www.capcut.com/pt-br/) – edição de áudio
+
+## 👤 Autoria
+
+**Izabela Nunes**  
+[LinkedIn](https://www.linkedin.com/in/izabela-nunes-549500233/)
