@@ -19,7 +19,7 @@ Neste projeto, você vai encontrar todas as etapas de produção do podcast, do 
 
 <div align="center">
   <audio controls>
-    <source src="audios/A%20m%C3%A1quina%20convence.%20EP1.mp4" type="audio/mp4">
+    <source src="audios/a-maquina-convence-ep1.mp4" type="audio/mp4">
   </audio>
 </div>
 
