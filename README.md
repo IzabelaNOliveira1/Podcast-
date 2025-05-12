@@ -14,7 +14,7 @@ Neste projeto, você vai encontrar todas as etapas de produção do podcast, do 
 - **Formato:** Podcast gerado com roteiro, narração e capa feitos por IA.
 
 ---
-## 🎧 Episódio de Exemplo
+## 🎧 Episódio 1
 <h3 align="center">🎧 Ouça o Episódio 1: A Máquina Convence</h3>
 
 <div align="center">
