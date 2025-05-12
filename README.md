@@ -15,9 +15,12 @@ Neste projeto, você vai encontrar todas as etapas de produção do podcast, do 
 
 ---
 ## 🎧 Episódio de Exemplo
+<h3 align="center">🎧 Ouça o Episódio 1: A Máquina Convence</h3>
 
 <div align="center">
-  <audio src="audios/episodio_01.mp3" controls title="Episódio 01"></audio>
+  <audio controls>
+    <source src="audios/A%20m%C3%A1quina%20convence.%20EP1.mp4" type="audio/mp4">
+  </audio>
 </div>
 
 ## 🚀 Tecnologias Utilizadas
