@@ -1,0 +1,18 @@
+a-maquina-convence-podcast/
+│
+├── README.md
+├── LICENSE
+├── podcast_info/
+│   ├── sobre_o_podcast.md
+│   ├── principais_episodios.md
+│   └── transcricoes/
+│       └── episodio_1.md
+│       └── episodio_2.md
+├── scripts/
+│   └── analise_audio.py
+├── imagens/
+│   └── capa_podcast.jpg   <-- Aqui está sua capa!
+├── referencias/
+│   ├── artigos.md
+│   └── fontes_externas.md
+└── .gitignore
