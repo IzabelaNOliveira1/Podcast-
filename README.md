@@ -14,6 +14,11 @@ Neste projeto, você vai encontrar todas as etapas de produção do podcast, do 
 - **Formato:** Podcast gerado com roteiro, narração e capa feitos por IA.
 
 ---
+## 🎧 Episódio de Exemplo
+
+<div align="center">
+  <audio src="audios/episodio_01.mp3" controls title="Episódio 01"></audio>
+</div>
 
 ## 🚀 Tecnologias Utilizadas
 
